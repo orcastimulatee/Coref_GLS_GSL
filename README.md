@@ -1,1 +1,1 @@
-# Coref_GLS_GSL
+# Exploring Coreference Resolution in Glosses of German Sign Language
