@@ -8,7 +8,7 @@ Following extended annotations and several adjustments, we have recalculated the
 | #noun phrase       |   80    |    52   |    41   |
 | #pronouns          |   65    |    9    |    32   |
 | #$INDEX            |   23    |    20   |    20   |
-| #entities.         |   35    |    26   |    23   |
+| #entities          |   35    |    26   |    23   |
 | #mentions/entities |   4.8   |    3.11 |    4.04 |
 
 Please cite the paper using:
