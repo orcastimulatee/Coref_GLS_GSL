@@ -1,6 +1,15 @@
 # Exploring Coreference Resolution in Glosses of German Sign Language
 
-The annotated data will be released soon.
+Following extended annotations and several adjustments, we have recalculated the statistics of the annotated data, as shown below.
+
+|                    | Video 1 | Video 2 | Video 3 |
+|--------------------|---------|---------|---------|
+| #mentions          |   168   |    81   |    93   |
+| #noun phrase       |   80    |    52   |    41   |
+| #pronouns          |   65    |    9    |    32   |
+| #$INDEX            |   23    |    20   |    20   |
+| #entities.         |   35    |    26   |    23   |
+| #mentions/entities |   4.8   |    3.11 |    4.04 |
 
 Please cite the paper using:
 
